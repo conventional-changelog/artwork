@@ -16,6 +16,18 @@ I don't care what you use it for. Do whatever you want.
 [![Standard Version](https://img.shields.io/badge/release-standard%20version-brightgreen.svg)](https://github.com/conventional-changelog/standard-version)
 ```
 
+[![conventional-changelog](https://cdn.rawgit.com/conventional-changelog/artwork/master/conventional-changelog-badge.svg)](http://conventional-changelog.github.io)
+
+```markdown
+[![conventional-changelog](https://cdn.rawgit.com/conventional-changelog/artwork/master/conventional-changelog-badge.svg)](http://conventional-changelog.github.io)
+```
+
+[![standard-changelog](https://cdn.rawgit.com/conventional-changelog/artwork/master/standard-changelog-badge.svg)](https://github.com/conventional-changelog/standard-version)
+
+```markdown
+[![standard-changelog](https://cdn.rawgit.com/conventional-changelog/artwork/master/standard-changelog-badge.svg)](https://github.com/conventional-changelog/standard-version)
+```
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
